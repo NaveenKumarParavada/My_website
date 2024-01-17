@@ -21,7 +21,9 @@ a{
     margin-right: 200PX;
     text-decoration: none;
 }
-
+#vid{
+    margin: 20px 20px 20px 20px ;
+}
 .contentBox
 {
     height: 300px;
